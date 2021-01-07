@@ -1,3 +1,7 @@
+Link a Heroku: https://stark-taiga-11193.herokuapp.com/
+
+
+
 CREACION DE MODELOS Y CAMPOS
 
 Terminal > rails g model user nombre_del_modelo (solo se realiza una vez este paso)
